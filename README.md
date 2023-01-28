@@ -1,4 +1,4 @@
-In this video, we will discuss some of the commonly asked Swift coding round interview questions and answers. Let me know which one you like andI look forward to hearing your opinions.
+We will discuss some of the commonly asked Swift coding round interview questions and answers. Let me know which one you like andI look forward to hearing your opinions.
 We'll talk about more of these coding challenges in an upcoming parts.
 Based on the feedback of this video, I will decide to continue this series, for sure this will be beneficial for iOS interviews
 
