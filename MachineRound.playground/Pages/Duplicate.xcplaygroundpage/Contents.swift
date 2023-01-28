@@ -47,3 +47,9 @@ numbers.removeDuplicateValues()
 print("Result:", numbers)
 var characterArray = ["a", "b", "b", "a", "c"]
 print("C:", characterArray.removeDuplicateValues())
+
+/**
+
+ # Please like and subscribe for more videos :-)
+
+ */

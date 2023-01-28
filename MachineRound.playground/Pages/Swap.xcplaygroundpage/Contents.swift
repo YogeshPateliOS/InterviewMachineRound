@@ -24,3 +24,9 @@ func swapNumberUsingIndex<T>(_ array: inout [T], i: Int, j: Int) {
 }
 swapNumberUsingIndex(&numbers, i: 0, j: 2)
 print(numbers)
+
+/**
+
+ # Please like and subscribe for more videos :-)
+
+ */
