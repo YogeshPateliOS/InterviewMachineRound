@@ -3,7 +3,7 @@ We'll talk about more of these coding challenges in an upcoming parts.
 Based on the feedback of this video, I will decide to continue this series, for sure this will be beneficial for iOS interviews
 
 ## Resources
-- Youtube Video: https://youtu.be/Z9SWiKM0T9w
+- Youtube Video: https://youtu.be/O-jHTtX6hCw
 
 ### 📹 Youtube Videos:
 - MVVM With API: https://youtu.be/fMO03NUjdj8
